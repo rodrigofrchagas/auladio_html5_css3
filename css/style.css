@@ -1,0 +1,41 @@
+body {
+  background-color: #cccccc;
+  font-family: "Helvetica", Helvetica, sans-serif;
+  width: 800px;
+  margin-left: 70px;
+  padding: 0;
+}
+
+h1 {
+  color: blue;
+  border: 1px solid red;
+}
+
+header {
+  margin-bottom: 100px;
+}
+
+#servicos img, #time img, #clientes img {
+  width: 300px;
+}
+
+p {
+  font-size: 18px;
+}
+
+footer {
+  margin: 70px auto;
+}
+
+#menu a {
+  text-decoration: none;
+  color: #000;
+}
+
+#menu a:active {
+  color: #73ff00;
+}
+
+#menu a:hover {
+  color: #ff9500;
+}
